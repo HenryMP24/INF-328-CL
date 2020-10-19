@@ -1,0 +1,22 @@
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\obj\Debug\calculadora.pantalla.resources
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Pi\Documents\Parcial_1\Net\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Henry\Desktop\Nueva carpeta (2)\net\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Henry\Desktop\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Henry\Desktop\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.pantalla.resources
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Henry\Desktop\PGR\informatica\Nueva carpeta (2)\net\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
